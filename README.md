@@ -13,5 +13,8 @@ Hardware:
 - 512GB Toshiba nVME SSD (original)
 - 1TB Crucial SATA SSD (additionally)
 - Audio: ALC255
+
+
+Bootloader Info:
 - SMBIOS: MacbookPro15,1
 - OpenCore 0.6.5
